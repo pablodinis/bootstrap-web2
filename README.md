@@ -1,5 +1,5 @@
 # bootstrap-web2
 
-Sitio creado utilizando Bootstrap. Añado a mayores Css customizado como también un ScrollReveal
+Site created using Bootstrap. I add more custom Css as well as a ScrollReveal.
 
-Sitio Web -> [Bootstrap Web 2](https://pablodinis.github.io/bootstrap-web2/)
+Web -> [Bootstrap Web 2](https://pablodinis.github.io/bootstrap-web2/)
